@@ -6,8 +6,8 @@ A picture is divided into levels of intensity (brightness) using the digital ima
 get. The method entails segmenting an image into contiguous intensity levels, presenting them as binary pictures, and choosing certain levels for subsequent processing.
 <table>
     <tr>
-    <td><img src="https://github.com/VishalTheHuman/Grey-Level-Slicing-in-C/assets/117697246/fd54239b-44b1-4b7f-af72-0dcd39d1d042" alt="without_background_fig"></td>
-    <td><img src="https://github.com/VishalTheHuman/Grey-Level-Slicing-in-C/assets/117697246/cfac555b-035e-4438-a128-3710cbbe1fee" alt="with_background_fig"></td>
+        <td><img src="placeholder1.jpg" alt="Image 1" style="width: 100%; height: auto;"></td>
+        <td><img src="placeholder2.jpg" alt="Image 2" style="width: 100%; height: auto;"></td>
     </tr>
 </table>
 
